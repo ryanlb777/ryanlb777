@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-Hello 👋,
+# Hello 👋,
 
 My name is Ryan. I'm a software engineer from California.
 
@@ -25,4 +22,3 @@ Here are some interesting links about me:
 [Blog](https://ryanlebon.com/)
 [Github](https://github.com/ryanlb777)
 [LinkedIn](https://www.linkedin.com/in/ryan-le-bon/)
--->
