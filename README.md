@@ -1,16 +1,28 @@
 ### Hi there 👋
 
 <!--
-**ryanlb777/ryanlb777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello 👋,
 
-Here are some ideas to get you started:
+My name is Ryan. I'm a software engineer from California.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My interests are:
+
+Software Engineering in general 🧑‍💻
+Web Development
+Python 🐍 and Javascript 🦀
+Software Development ⚙️
+Data Science 📊
+Devops Engineering ☁️
+Automation and AI 🤖
+Game Development 🎮
+Books 📚
+Woodworking 🗜️
+Gym
+Hiking
+
+Here are some interesting links about me:
+
+[Blog](https://ryanlebon.com/)
+[Github](https://github.com/ryanlb777)
+[LinkedIn](https://www.linkedin.com/in/ryan-le-bon/)
 -->
