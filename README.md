@@ -16,6 +16,7 @@ My interests are:
 - Woodworking 🗜️
 - Gym
 - Hiking
+- Dogecoin
 
 Here are some interesting links about me:
 
