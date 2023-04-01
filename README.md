@@ -65,15 +65,5 @@ Concentration: Software Engineering
 - Worked on multiple projects to fix bugs, add animations, and implement new features.
 - Automated backups for 1k+ repositories with custom Python scripts.
 
-### Achievements 
-- 2018: Bachelors Degree in Computer Science from CSUMB
-- 2016: Major League Hacking Hackathon
-- 2017: Startup Monterey Bay Hackathon
-
-### EXTRA CURRICULAR
-- 2016: Teachers Assistant for C++ Programming Class
-- 2017: Teachers Assistant for Python and Web Programming Class
-- 2018: CSUMB School of Computing and Design
-
 ### Professional Goal
 My goal is to become a leader as a DevOps Engineer. I am inspired to drive impactful results by delivering high-quality software and continuously improving the development process. I create a culture of collaboration, communication, and automation by introducing new tools and advocating for agile methodologies.
