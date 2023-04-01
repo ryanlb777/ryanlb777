@@ -11,96 +11,24 @@ Last updated: 03/29/2023
 **BS in Computer Science**, earned Spring 2018  
 Concentration: Software Engineering  
 
-## Coursework
+| Undergraduate Coursework         | Programming Languages | Technologies | Collaboration Tools |
+| -------------------------------- | --------------------- | ------------ | -------------------- |
+| Algorithms: Design and Analysis  | JavaScript            | Ubuntu       | Monday               |
+| Calculus 1                       | Python                | Windows      | Slack                |
+| Calculus 2                       | C++                   | Mac          | Microsoft Teams      |
+| Communications                   | R                     | Node.js      | Jira                 |
+| Computer Architecture            | PHP                   | SVN          | ClickUp              |
+| Computer Graphics                | HTML                  | Apache       | Trello               |
+| Databases                        | Groovy                | R Shiny      | Asana                |
+| Data Science                     | Awk                   | Heroku       | Google Workspace     |
+| Data Structures                  | Lua                   | Express.js   | Zoom                 |
+| Discrete Mathematics             | jQuery                | Android      | GitHub               |
+| Functional Programming           | C                     | iOS          | Confluence           |
+| Internet Networking              | Java                  | Kubernetes  | Google Authenticator |
+| Internet Programming             | SQL                   | Docker       |                      |
+| Mathematics for Computing        | Bash                  | Jenkins      |                      |
+| Multi-media Design and Programming|
 
-### Undergraduate
-
-- Algorithms: Design and Analysis
-- Calculus 1
-- Calculus 2
-- Communications
-- Computer Architecture
-- Computer Graphics
-- Databases
-- Data Science
-- Data Structures
-- Discrete Mathematics
-- Functional Programming
-- Internet Networking
-- Internet Programming
-- Mathematics for Computing
-- Multi-media Design and Programming
-- Operating Systems
-- Software Engineering and Design
-- Statistics
-- Web Development
-
-## Skills
-
-### Programming Languages:
-
-- JavaScript
-- Python
-- C++
-- R
-- PHP
-- HTML
-- Groovy
-- Awk
-- Lua
-- jQuery
-- C
-- Java
-- SQL
-- Bash
-- CSS
-- Markdown
-- LaTeX
-- Regex
-- Go
-- TypeScript
-
-### Technologies:
-
-- Ubuntu
-- Windows
-- Mac
-- Node.js
-- SVN
-- Apache
-- R Shiny
-- Heroku
-- Express.js
-- Android
-- iOS
-- Kubernetes
-- Docker
-- Jenkins
-- Terraform
-- MySQL
-- Git
-- AWS
-- Selenium
-- Mabl
-- Azure
-- SonarQube
-- Ansible
-- Nagios
-
-### Collaboration Tools:
-
-- Monday
-- Slack
-- Microsoft Teams
-- Jira
-- ClickUp
-- Trello
-- Asana
-- Google Workspace
-- Zoom
-- GitHub
-- Confluence
-- Google Authenticator
 
 ---
 
