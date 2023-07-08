@@ -42,7 +42,7 @@ Concentration: Software Engineering
 - Developed and implemented efficient CI/CD pipelines for various projects.
 - Utilized agile methodologies to deliver high-quality work and meet project timelines.
 
-### Anderson Taylor
+### Fiverr
 
 **DevOps Engineer** | May 2020 - Dec 2020 | Bay Area, CA
 
