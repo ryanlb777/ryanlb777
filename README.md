@@ -1,7 +1,10 @@
-# Ryan Le Bon's Professional Resume
+# Hi there, I'm Ryan! 👋
+Welcome to my GitHub profile.
 
-Last updated: 03/29/2023
+- 🔭 I’m currently working on building cool web projects.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about JavaScript, React, and CSS.
+- ⚡ Fun fact: I love hiking and coding.
 
-
-### Professional Goal
-My goal is to become a leader as a DevOps Engineer. I am inspired to drive impactful results by delivering high-quality software and continuously improving the development process. I create a culture of collaboration, communication, and automation by introducing new tools and advocating for agile methodologies.
+### GitHub Stats
+![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanlb777&show_icons=true&theme=radical)
